@@ -1,0 +1,7 @@
+crop,temperature_min_c,temperature_max_c,soil_ph_min,soil_ph_max,soil_moisture_min_pct,soil_moisture_max_pct,notes,source
+rice,,,,,,,, 
+corn,,,,,,,, 
+cassava,,,,,,,, 
+eggplant,,,,,,,, 
+tomato,,,,,,,, 
+string_beans,,,,,,,,

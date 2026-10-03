@@ -1,0 +1,15 @@
+# Data processing
+pandas==2.2.3
+numpy==2.1.2
+
+# Machine learning
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# API backend
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+
+# Utilities
+python-dotenv==1.0.1
